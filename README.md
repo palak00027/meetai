@@ -46,27 +46,6 @@ The goal is simple:
 
 ---
 
-## 🎥 Product Preview
-
-> Replace the placeholders below with screenshots or GIFs from your deployed application.
-
-### Dashboard
-
-![Dashboard](./public/screenshots/dashboard.png)
-
-### AI Agent
-
-![AI Agent](./public/screenshots/agent.png)
-
-### Live Meeting
-
-![Live Meeting](./public/screenshots/meeting.png)
-
-### Post-Meeting Experience
-
-![Meeting Summary](./public/screenshots/meeting-summary.png)
-
----
 
 ## ✨ Features
 
